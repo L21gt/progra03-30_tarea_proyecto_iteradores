@@ -167,7 +167,7 @@ mas corta.
     New York. It\'s really an adventure from beginning to end! \
     It is a 15-mile trek, and it literally took me an entire day. \
     I stopped at Mirror Lake to take some artsy photos. \
-    It was a short stop, though,\
+    It was a short stop, though, \
     because I had a freaking steep climb ahead. \
     After a quick break at the scenic Adirondack Lodge,\
     I began my ascent up the rocky path. \
@@ -175,7 +175,7 @@ mas corta.
     I was already exhausted by the time I reached the h\
     alfway point. \
     Two hours later, I arrived at Indian Falls, \
-    an extremely beautifull cascade hidden in the forest.\
+    an extremely beautifull cascade hidden in the forest. \
     Something that surprised me was that near the end,\
     you literally loop back to the starting point! \
     At this stage, you\'re very close to finishing.';
