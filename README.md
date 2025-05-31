@@ -1,5 +1,5 @@
 Luis Velasquez  
-Carnet 24011341  
+Carnet - 24011341  
 3er Semestre - Curso JavaScript testing  
 Tarea 30  
 
